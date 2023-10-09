@@ -12,14 +12,10 @@ Programa, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="Projeto Linktree" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="Projeto Linktree" src=".github/preview.jpg">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
