@@ -12,7 +12,7 @@ Programa, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="Projeto Linktree" src=".github/preview.jpg">
+  <img alt="Projeto Linktree" src="https://marcosmarquespequeno.github.io/linktree_personality/">
 </p>
 
 <br>
